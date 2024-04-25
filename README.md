@@ -9,11 +9,23 @@ Command Prompt Closer, affectionately known as CPC, is a lightweight Python scri
 - **Countdown Timer:** CPC features a built-in countdown timer to inform you of the imminent closure, ensuring a smooth experience.
 - **Convenience:** Whether you're tidying up your workspace or need a clean slate for your next task, CPC is your go-to solution for swift and effective Command Prompt management.
 
-## Usage
+## Installation
 
-1. Clone the repository or download the `cpc.py` script.
-2. Run the script using Python: `python cpc.py`.
-3. Sit back and let CPC close all open Command Prompt windows for you.
+To get started with Command Prompt Closer (CPC), you can clone the repository to your local machine using Git. Follow these steps:
+
+1. Open a terminal or command prompt on your computer.
+
+2. Navigate to the directory where you want to clone the repository. You can use the `cd` command to change directories. For example:
+cd path/to/desired/directory
+
+
+3. Once you're in the desired directory, use the `git clone` command followed by the repository URL:
+git clone https://github.com/ImMirage/CPC.git
+
+
+4. After running the command, the repository will be cloned to your local machine.
+
+5. You can now navigate to the cloned repository directory and start using CPC.
 
 ## Compatibility
 
